@@ -1,4 +1,3 @@
-# Supermarket-System-V1
 # 🛒 Supermarket System V1
 
 **Supermarket System V1** Is A Simple Console-Based Cashier Simulation Built Using C++.  
@@ -70,13 +69,3 @@ This Version Is Intentionally Simple And Serves As A Foundational Training Exerc
 It Represents An Early Milestone In My Programming Journey And A Base For Future Enhancements.
 
 # Best Regards
-
-
-
-
-
-
-
-
-
-
